@@ -1,3 +1,31 @@
+
+
+#my untracked models directory
+**/untrackedModels
+**/abottLouie
+#large sw4 outputs
+*.sw4out 
+*.essiHDF5
+*.mp4
+*.essi
+*.png
+*.essi
+*.x
+*.y
+*.z
+*.sw4img
+*.tar
+*.hdf5
+*.r
+*.txt
+*.png
+*.ipynb
+*.zip
+*.lock
+*.csv
+dem_k_extent.txt
+dem_unit_surface.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
